@@ -5,7 +5,7 @@ A test project in which I am learning the SwiftUI framework.
 The project is part of Paul Hudson's training cycle - 100 Days of SwiftUI
 
   <p float="right">
-  <img src="WeSplit/Assets.xcassets/demo-1.imageset/demo-1.png" width="32%"/>
+  <img src="WeSplit/Assets.xcassets/demo-2.imageset/demo-2.png" width="32%"/>
   </p>
   
 
