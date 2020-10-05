@@ -37,6 +37,7 @@
 		797A43912524836C008BFB6C = {
 			isa = PBXGroup;
 			children = (
+				79014278252B136000E1F4BC /* README.md */,
 				797A439C2524836C008BFB6C /* WeSplit */,
 				797A439B2524836C008BFB6C /* Products */,
 			);
@@ -58,7 +59,6 @@
 				797A43A125248373008BFB6C /* Assets.xcassets */,
 				797A43A625248373008BFB6C /* Info.plist */,
 				797A43A325248373008BFB6C /* Preview Content */,
-				79014278252B136000E1F4BC /* README.md */,
 			);
 			path = WeSplit;
 			sourceTree = "<group>";
