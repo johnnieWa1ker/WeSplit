@@ -14,6 +14,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		79014278252B136000E1F4BC /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		797A439A2524836C008BFB6C /* WeSplit.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = WeSplit.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		797A439D2524836C008BFB6C /* WeSplitApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WeSplitApp.swift; sourceTree = "<group>"; };
 		797A439F2524836C008BFB6C /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -57,6 +58,7 @@
 				797A43A125248373008BFB6C /* Assets.xcassets */,
 				797A43A625248373008BFB6C /* Info.plist */,
 				797A43A325248373008BFB6C /* Preview Content */,
+				79014278252B136000E1F4BC /* README.md */,
 			);
 			path = WeSplit;
 			sourceTree = "<group>";
@@ -280,7 +282,7 @@
 				PRODUCT_BUNDLE_IDENTIFIER = dev.johnniewalker.WeSplit;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
+				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Debug;
 		};
@@ -302,7 +304,7 @@
 				PRODUCT_BUNDLE_IDENTIFIER = dev.johnniewalker.WeSplit;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
+				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Release;
 		};
